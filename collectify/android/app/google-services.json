@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "4418173781",
+    "firebase_url": "https://collectify-e6bbe-default-rtdb.firebaseio.com",
+    "project_id": "collectify-e6bbe",
+    "storage_bucket": "collectify-e6bbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4418173781:android:67d103de40b5e35b6b4ddc",
+        "android_client_info": {
+          "package_name": "com.example.collectify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfn5y0hEhLo-7z-qE4cOM-G7uzvCuAdSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
